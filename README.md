@@ -1,7 +1,3 @@
-**Backend-focused Software Engineer | Java Developer | Spring Boot | PostgreSQL | REST APIs**
-
----
-
 ### About me
 Backend-focused Software Engineer building REST APIs and backend services with **Java, Spring Boot, PostgreSQL, and Spring Security**. Focused on clean backend architecture, authentication, database design, Docker, CI/CD, and production-ready applications.
 
