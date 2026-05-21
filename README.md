@@ -1,8 +1,3 @@
-### About me
-Backend-focused Software Engineer building REST APIs and backend services with **Java, Spring Boot, PostgreSQL, and Spring Security**. Focused on clean backend architecture, authentication, database design, Docker, CI/CD, and production-ready applications.
-
----
-
 ### What I work with
 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk&logoColor=white)
@@ -14,6 +9,11 @@ Backend-focused Software Engineer building REST APIs and backend services with *
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### About me
+Backend-focused Software Engineer building REST APIs and backend services with **Java, Spring Boot, PostgreSQL, and Spring Security**. Focused on clean backend architecture, authentication, database design, Docker, CI/CD, and production-ready applications.
 
 ---
 
