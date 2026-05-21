@@ -1,4 +1,4 @@
-**Backend-focused Software Engineer | Java Backend Developer | Spring Boot | PostgreSQL | REST APIs | Los Angeles, CA**
+**Backend-focused Software Engineer | Java Backend Developer | Spring Boot | PostgreSQL | REST APIs**
 
 ---
 
@@ -32,3 +32,5 @@ Backend-focused Software Engineer building REST APIs and backend services with *
 
 **Live Demo:** [bloom-mind-mu.vercel.app/login](https://bloom-mind-mu.vercel.app/login)  
 **GitHub Repository:** [github.com/Gulnara-cloud/BloomMind](https://github.com/Gulnara-cloud/BloomMind)
+
+**📍Los Angeles, CA**
