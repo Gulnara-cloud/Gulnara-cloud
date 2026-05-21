@@ -16,15 +16,3 @@
 Backend-focused Software Engineer building REST APIs and backend services with **Java, Spring Boot, PostgreSQL, and Spring Security**. Focused on clean backend architecture, authentication, database design, Docker, CI/CD, and production-ready applications.
 
 ---
-
-### Featured project
-
-**BloomMind** - AI-assisted learning platform with secure authentication, REST APIs, persistent conversation history, and backend-driven lesson content.
-
-- Built REST APIs with **Java, Spring Boot, and PostgreSQL**
-- Implemented **JWT authentication** using Spring Security
-- Designed layered backend architecture
-- Integrated **OpenAI API** for contextual AI responses
-
-**Live Demo:** [bloom-mind-mu.vercel.app/login](https://bloom-mind-mu.vercel.app/login)  
-**GitHub Repository:** [github.com/Gulnara-cloud/BloomMind](https://github.com/Gulnara-cloud/BloomMind)
