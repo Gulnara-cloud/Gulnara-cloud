@@ -1,4 +1,4 @@
-**Backend-focused Software Engineer | Java Backend Developer | Spring Boot | PostgreSQL | REST APIs**
+**Backend-focused Software Engineer | Java Developer | Spring Boot | PostgreSQL | REST APIs**
 
 ---
 
