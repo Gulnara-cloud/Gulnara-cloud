@@ -19,7 +19,7 @@ Backend-focused Software Engineer building REST APIs and backend services with *
 
 ### Featured project
 
-**BloomMind** - AI-assisted learning platform with secure authentication, persistent conversation history, and backend-driven lesson content.
+**BloomMind** — AI-assisted learning platform with secure authentication, REST APIs, persistent conversation history, and backend-driven lesson content.
 
 - Built REST APIs with **Java, Spring Boot, and PostgreSQL**
 - Implemented **JWT authentication** using Spring Security
@@ -28,5 +28,3 @@ Backend-focused Software Engineer building REST APIs and backend services with *
 
 **Live Demo:** [bloom-mind-mu.vercel.app/login](https://bloom-mind-mu.vercel.app/login)  
 **GitHub Repository:** [github.com/Gulnara-cloud/BloomMind](https://github.com/Gulnara-cloud/BloomMind)
-
-**📍Los Angeles, CA**
