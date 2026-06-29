@@ -1,5 +1,5 @@
 ### About me
-Backend Software Engineer building REST APIs and backend services with **Java, Spring Boot, PostgreSQL, and Spring Security**. Focused on clean backend architecture, authentication, database design, Docker, CI/CD, and production-ready applications
+Backend Software Engineer building REST APIs and backend services with Java, Spring Boot, PostgreSQL, and Spring Security. Experienced with authentication, database optimization, Docker, and CI/CD pipelines.
 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
